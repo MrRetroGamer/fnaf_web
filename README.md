@@ -1,6 +1,6 @@
 # Five Night's at Freddys HTML
  We got fnaf 1, 2, 3, 4. Pizzeria simulator, fnaf world, and Ultimate Custom Night!<br>
- Only needing fnaf sister location!
+Sister location possibly coming soon.
 <hr>
 
 # Demos
@@ -18,7 +18,7 @@ Click [here](https://irv77.github.io/hd_fnaf/ps/) for FNAF Pizzeria Simulator!<b
 
 Click [here](https://irv77.github.io/hd_fnaf/ucn/) for FNAF UCN! <br>
 
-Click [here](google.com/) for FNAF Sister Location! (Coming Soon.) <br>
+FNAF Sister Location! (Coming Soon hopefully!)<br>
  <hr>
 
 NOT OFFICIAL FNAF PRODUCT. NOT APPROVED BY OR ASSOCIATED WITH SCOTT CAWTHON.
